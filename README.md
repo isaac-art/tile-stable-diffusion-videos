@@ -8,6 +8,9 @@ see the notebook tiled_stable_diffusion_videos.ipynb
 
 
 some demo gifs: 
+![test3](https://user-images.githubusercontent.com/5353074/193776259-f28b4789-44b5-486a-92d3-2c69facbfcc8.gif)
+
+
 - https://isaacclarke.com/tiletest/index.html
 - https://isaacclarke.com/tiletest/objects.html
 - https://isaacclarke.com/tiletest/two.html
