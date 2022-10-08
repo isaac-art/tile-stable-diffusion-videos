@@ -1,5 +1,10 @@
 # tile-stable-diffusion-videos
 
+### THIS IS NOW AVAILABLE IN THE STABLE DIFFUSION VIDEOS REPO PIPELINE 
+https://github.com/nateraw/stable-diffusion-videos
+
+-----------
+
 fork of stable diffusion videos to add the circular convolution shown in https://github.com/TomMoore515/material_stable_diffusion
 
 this allows for tileable videos. 
