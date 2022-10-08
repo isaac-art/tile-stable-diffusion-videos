@@ -1,6 +1,6 @@
 # tile-stable-diffusion-videos
 
-### THIS IS NOW AVAILABLE IN THE STABLE DIFFUSION VIDEOS REPO PIPELINE 
+### THIS IS NOW AVAILABLE IN THE MAIN STABLE DIFFUSION VIDEOS REPO  
 https://github.com/nateraw/stable-diffusion-videos
 
 -----------
